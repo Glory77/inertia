@@ -1,1 +1,2 @@
-Inertia test project
+User: admin@example.com
+Password: dfer54
